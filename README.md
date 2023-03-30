@@ -6,4 +6,4 @@ Devemos implementar uma rede neural regularizada com uma camada escondida. Quere
 Feito isso, devemos implementar a mesma rede regularizada, mas agora utilizando o gradiente conjugado.
 Por fim, devemos separar os exemplos em 3 conjuntos: treino, validação e teste. Sugere-se 60% para treino, 20% para validação e 20% para teste. Com isso, poderemos observar o erro de treino da rede neural regularizada. Também será possível gerar uma curva de aprendizado. Por fim, devemos automatizar o processo de escolhar do valor de λ (usando o conceito de conjunto de validação para isso) e calcular o erro de teste para este λ ótimo encontrado.
 
-Resultados do projeto estão no arquivo 
+Resultados do projeto estão no arquivo "MNIST Report.pdf"
